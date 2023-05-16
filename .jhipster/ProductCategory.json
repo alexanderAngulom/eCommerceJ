@@ -1,0 +1,36 @@
+{
+  "applications": "*",
+  "changelogDate": "20230516141127",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "product_category",
+  "fields": [
+    {
+      "fieldName": "id",
+      "fieldType": "UUID"
+    },
+    {
+      "fieldName": "name",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "ProductCategory",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "product",
+      "otherEntityRelationshipName": "productCategory",
+      "relationshipName": "product",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "service": "serviceClass"
+}

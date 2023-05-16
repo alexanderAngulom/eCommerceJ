@@ -1,0 +1,11 @@
+id;placed_date;status;total_price;payment_method;payment_reference;customer_details_id
+895ed8f3-aca8-4c1e-a4df-d147349f14fb;2023-05-16T02:57:12;PAID;76825;IDEAL;Costa microchip;1dc1f651-18e1-42c8-b930-eac5b9a2312f
+9a573bbb-e09f-4ab6-b18b-80ac30070457;2023-05-16T04:09:14;COMPLETED;71651;CREDIT_CARD;Comunidad;8efcb9be-5fda-44ba-9e72-b00def925c6a
+1f10401f-5d95-4107-a0c2-c4a47110612b;2023-05-15T19:09:42;PAID;73085;CREDIT_CARD;synthesizing estructura aggregate;8efcb9be-5fda-44ba-9e72-b00def925c6a
+f64e4996-7e2f-496a-bd23-b53d6ce39d53;2023-05-15T22:08:47;CANCELLED;86650;IDEAL;deposit jerarquía;8efcb9be-5fda-44ba-9e72-b00def925c6a
+b00abe40-ad06-4b16-8299-63cc5efd57e5;2023-05-16T06:30:14;REFUNDED;30348;IDEAL;Ingeniero open-source Alemania;1dc1f651-18e1-42c8-b930-eac5b9a2312f
+e3e409fd-9629-45e5-b1cb-a82b238c877f;2023-05-15T21:17:11;CANCELLED;92888;IDEAL;Joyería Namibia;1dc1f651-18e1-42c8-b930-eac5b9a2312f
+45a2540d-acc9-4914-8c53-31cc4c16e572;2023-05-16T01:09:35;PAID;99905;CREDIT_CARD;payment;1dc1f651-18e1-42c8-b930-eac5b9a2312f
+9ce1cbbc-8f08-4334-95a3-566816af633f;2023-05-16T01:05:05;PENDING;74315;CREDIT_CARD;XML 1080p Avon;8efcb9be-5fda-44ba-9e72-b00def925c6a
+737f64eb-ddaa-4ea3-aa5d-06a1396e5e3b;2023-05-15T21:38:30;PAID;77887;IDEAL;e-services AI División;1dc1f651-18e1-42c8-b930-eac5b9a2312f
+04ae435e-e77f-40d6-a4b9-0f894f09aa7d;2023-05-15T18:20:50;REFUNDED;54492;CREDIT_CARD;Comunicaciones;8efcb9be-5fda-44ba-9e72-b00def925c6a
